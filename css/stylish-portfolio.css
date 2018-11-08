@@ -98,6 +98,8 @@ h6 {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+  color: whitesmoke;
+  text-shadow: 2px 2px #00000022;
 }
 
 .masthead h1 {
@@ -299,6 +301,10 @@ h6 {
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
   }
+}
+
+video.video {
+    padding-top: 5rem;
 }
 
 footer.footer {
